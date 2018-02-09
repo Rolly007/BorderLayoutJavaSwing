@@ -23,7 +23,5 @@ public class Ventana extends JFrame{
         add(b3,BorderLayout.SOUTH);
         add(b4,BorderLayout.EAST);
         add(b5,BorderLayout.WEST);
-
-
     }
 }
